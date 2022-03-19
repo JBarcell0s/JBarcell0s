@@ -5,8 +5,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jbarcell0s/)
 
 
-Atualmente estou estudando e me desenvolvendo na área da tecnologia, todas atualizações dos meus estudos vão estar disponíveis!
-Currently studyng and developing me in tecnology area, all my studies updates will be here!
+## Atualmente estou estudando e me desenvolvendo na área da tecnologia, todas atualizações dos meus estudos vão estar disponíveis!
+## Currently studyng and developing me in tecnology area, all my studies updates will be here!
 
 
 <div align="center">
@@ -15,8 +15,8 @@ Currently studyng and developing me in tecnology area, all my studies updates wi
   <img width="45%" src="https://github-readme-stats-srhenry.vercel.app/api/top-langs/?username=filipedev8&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-## Linguagens que estou estudando atualmente:
-##Languages I'm currently studying:
+## Linguagens que estou estudando atualmente
+## Languages I'm currently studying:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="SrHenry-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
