@@ -27,4 +27,4 @@
 </div>
 
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/jbarcell0s/jbarcell0s/output/github-contribution-grid-snake.svg)
+
